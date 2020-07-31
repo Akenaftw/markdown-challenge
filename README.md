@@ -26,5 +26,6 @@ I like helping people solving issues of all sorts, because a group that doesn't 
 4 years ago I fell off of a ginny, a platform, and hung at 10 meters height in my climbing gear for 20 minutes until my colleagues came back from their coffee break. At first I was yelling for help, but afterwards I gave in and decided to just hang back and relax.
 ######TL;DR
 Climbing gear will wreck your nuts after 20 minutes.
-[<<previous page](https://github.com/Tessakam/markdown-challenge)  Felix Van Roost  [next page>>](https://github.com/mcoulier/markdown-challenge)
+
+[<<previous page](https://github.com/EmmanuelTs)  Felix Van Roost  [next page>>](https://github.com/Fib88/markdown-challenge)
 
