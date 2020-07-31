@@ -32,5 +32,5 @@ I like helping people solving issues of all sorts, because a group that doesn't 
 ###### TL;DR
 Climbing gear will wreck your nuts after 20 minutes.
 
-[<<previous page](https://github.com/EmmanuelTs)  Felix Van Roost  [next page>>](https://github.com/Fib88/markdown-challenge)
+[<<previous page](https://github.com/EmmanuelTs/markdown-warm-up)  Felix Van Roost  [next page>>](https://github.com/Fib88/markdown-challenge)
 
