@@ -2,7 +2,7 @@
 
 *I would love to change the world. But they won't give me the source code.*
 
-![image](/home/akena/Desktop/Becode/markdown-challenge/Felix.jpg) 
+![image](https://raw.githubusercontent.com/Akenaftw/markdown-challenge/master/Felix.jpg) 
 
 ## me
 
